@@ -4,7 +4,6 @@
 
 - Html5
 - Css3
-- Javascript
 - Responsive Web Design
 
 ## Desktop
